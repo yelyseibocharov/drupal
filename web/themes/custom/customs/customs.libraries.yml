@@ -1,0 +1,6 @@
+global-css-and-js:
+  css:
+    theme:
+      css/style.css: {}
+      css/menu.css: {}
+      css/zerogrid.css: {}

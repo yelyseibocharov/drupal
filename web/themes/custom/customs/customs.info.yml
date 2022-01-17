@@ -1,0 +1,14 @@
+name: customs theme
+type: theme
+description: 'test theme'
+core_version_requirement: ^9
+libraries:
+  - customs/global-css-and-js
+base theme: stable9
+
+regions:
+  search: 'Search'
+  navigation: 'Main navigation'
+  navigation2: 'Social nav'
+  content: 'Content'
+  footer: 'Footer'
